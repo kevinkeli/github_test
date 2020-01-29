@@ -9,5 +9,6 @@ try pull
 try fetch origin
 test branch
 test branch again
+test edit branch
 
 
