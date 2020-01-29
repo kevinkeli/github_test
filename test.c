@@ -5,3 +5,4 @@ third check in from my linux machine.
 yeah it works
 start from clone
 prepare for fetch
+try pull
